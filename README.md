@@ -35,7 +35,6 @@ Binary files /.snapshots/1/snapshot/usr/bin/localedef and /.snapshots/2/snapshot
 Binary files /.snapshots/1/snapshot/usr/bin/makedb and /.snapshots/2/snapshot/usr/bin/makedb differ
 ...
 ```
-* 
 * Issue a roll-back:
 ```
 snapper undochange 1..2
